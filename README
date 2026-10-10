@@ -1,0 +1,15 @@
+# Valentine's Day Spending Analysis
+
+This analysis plots historical spending by gift category from 2010–2022
+to help inform Valentine's Day inventory planning.
+
+Data source:
+https://www.kaggle.com/datasets/joebeachcapital/valentines-day-consumer-data?resource=download
+
+## Running the Script
+
+Extract the ZIP and open the included .Rproj file in RStudio.
+Open valentines.R and click Source.
+
+The script saves myplot.png and displays an interactive chart
+in the Viewer pane.
